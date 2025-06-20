@@ -121,7 +121,7 @@
   <section class="section">
     <h2>7. Conclusión</h2>
     <p>Este manual refleja la esencia de Francesca Zanelli como marca personal en construcción. Una guía adaptable a su crecimiento profesional.</p>
-    <p><strong>Contacto:</strong> [Correo] | [LinkedIn]</p>
+    <p><strong>Contacto:</strong> [f.zanelliberrios@gmail.com] | [LinkedIn]</p>
   </section>
 
   <footer>
